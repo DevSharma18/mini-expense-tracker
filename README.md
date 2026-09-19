@@ -17,3 +17,7 @@ PORT=3000
 cd backend
 npm install
 npm start
+
+architecture link
+
+https://excalidraw.com/#json=ETu4Kt1mxKH674FUOFOJm,23fc9Ey4v5zWFOiqQzuSTg

@@ -5,7 +5,7 @@ const expenseSchema = new mongoose.Schema({
     type: String,
     required: [true, "Title is required"],
     trim: true,
-    minlength: [2, "Title must be at least 2 characters"],
+    minlength: [2, "Title must be at least 2 chars"]
   },
   amount: {
     type: Number,
